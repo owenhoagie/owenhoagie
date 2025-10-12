@@ -1,5 +1,19 @@
 ![](https://komarev.com/ghpvc/?username=owenhoagie&label=visitors)
 
+# 👋 Hey, I’m Owen  
+**Aspiring Software Engineer | Machine Learning Enthusiast**
+**Freshman @ Virginia Tech**
+> General Engineering → Computer Science  
+
+---
+
+### ⚙️ About Me  
+- Currently exploring **backend systems**, **AI**, and **data-driven software design**  
+- Learning to combine **creativity + computation** to build smarter and more intuitive tech  
+- Passionate about **scalable systems**, **cybersecurity**, and **AI for good**  
+
+
+### ☕ Contact Me
 <p align="center">
   <a href="https://www.linkedin.com/in/owen-hoag/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
@@ -8,19 +22,6 @@
     <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a>
 </p>
-
-# 👋 Hey, I’m Owen  
-
-**Freshman @ Virginia Tech**
-> General Engineering → Computer Science  
-> Aspiring Software Engineer | Machine Learning Enthusiast
-
----
-
-### ⚙️ About Me  
-- Currently exploring **backend systems**, **AI**, and **data-driven software design**  
-- Learning to combine **creativity + computation** to build smarter and more intuitive tech  
-- Passionate about **scalable systems**, **cybersecurity**, and **AI for good**  
 
 ---
 
