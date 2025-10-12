@@ -2,30 +2,31 @@
 
 # 👋 Hey, I’m Owen  
 
-🎓 **Freshman @ Virginia Tech** | 🧠 **General Engineering → Computer Science**  
-💻 **Backend Developer** | ⚙️ **Machine Learning Enthusiast** | 🏐 **Creator of VNL Predictor**
+🎓 **Freshman @ Virginia Tech** | **General Engineering → Computer Science**  
+💻 **Backend Developer** | ⚙️ **Machine Learning Enthusiast**
 
 ---
 
-### 🚀 About Me  
-- 🧩 Currently exploring **backend systems**, **AI**, and **data-driven software design**  
-- 🧠 Built a **machine learning model** that forecasts **volleyball match outcomes (87.5% accuracy!)**  
-- 🌱 Learning to combine **creativity + computation** to build smarter and more intuitive tech  
-- ⚡ Passionate about **scalable systems**, **cybersecurity**, and **AI for good**  
+### About Me  
+- Currently exploring **backend systems**, **AI**, and **data-driven software design**  
+- Learning to combine **creativity + computation** to build smarter and more intuitive tech  
+- Passionate about **scalable systems**, **cybersecurity**, and **AI for good**  
 
 ---
 
 ### 🧰 Tech Stack  
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0078D4?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0078D4?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
@@ -52,9 +53,8 @@
 
 ### 🧠 Currently Learning  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow)
-![AI Ethics](https://img.shields.io/badge/AI%20Ethics-333333?style=flat-square)
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA-FE7F23?style=for-the-badge)
 ![Backend Scaling](https://img.shields.io/badge/Backend%20Scaling-007ACC?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=flat-square)
 
 ---
 
