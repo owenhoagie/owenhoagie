@@ -44,8 +44,10 @@
 ### Projects  
 
 #### 🔹 [**VNL Predictor**](https://github.com/owenhoagie/VNL-Predictor)
-> Developed machine learning models with Scikit-Learn, reaching **87.5% accuracy** on playoff predictions.  
-> Utilized **logistic regression** and **multinomial logistic regression** for match and set outcome forecasting.
+> Developed **sports outcome prediction models** with Scikit-Learn, reaching **87.5% accuracy** on Volleyball Nations League playoff forecasts.  
+> Utilized **logistic regression** and **multinomial logistic regression** to predict match winners and set-by-set results.  
+> Implemented automated Python data pipelines using **Pandas** and **Selenium** for streamlined scraping and preprocessing of match statistics.
+
 
 #### 🔹 [**EasyRoManage**](https://github.com/owenhoagie/EasyRoManage)
 > A **Discord bot** for Roblox developers to manage player data, track logins, and enforce bans on games with over **300,000+ visits**.  
