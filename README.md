@@ -14,14 +14,13 @@
 
 
 ### ☕ Contact Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/owen-hoag/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a>
-  <a href="mailto:hoagie1481@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
-  </a>
-</p>
+![LinkedIn](
+<a href="https://www.linkedin.com/in/owen-hoag/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a>
+<a href="mailto:hoagie1481@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
 
 ---
 
