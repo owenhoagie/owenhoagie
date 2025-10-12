@@ -4,7 +4,7 @@
 
 **Freshman @ Virginia Tech**
 > General Engineering → Computer Science  
-> Backend Developer | Machine Learning Enthusiast
+> Aspiring Software Engineer | Machine Learning Enthusiast
 
 ---
 
@@ -63,9 +63,9 @@
 ---
 
 ### 🧠 Currently Learning  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow)
-![Data Structures & Algorithms](https://img.shields.io/badge/DSA-FE7F23?style=for-the-badge)
-![Backend Scaling](https://img.shields.io/badge/Backend%20Scaling-007ACC?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=FF6F00)  
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA-FE7F23?style=for-the-badge&logo=algorithmia&logoColor=white)  
+![Backend Scaling](https://img.shields.io/badge/Backend%20Scaling-007ACC?style=flat-square&logo=docker&logoColor=white)  
 
 ---
 
