@@ -2,7 +2,7 @@
 
 # 👋 Hey, I’m Owen  
 **Aspiring Software Engineer | Machine Learning Enthusiast**  
-**Freshman @ Virginia Tech**
+**Freshman @ Virginia Tech**  
 > General Engineering → Computer Science  
 
 ---
