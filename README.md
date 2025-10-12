@@ -1,6 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=owenhoagie&label=visitors)
 
-![python](https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667)
+<p align="center">
+  <a href="https://www.linkedin.com/in/owen-hoag/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
+  <a href="mailto:hoagie1481@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  </a>
+</p>
+
 # 👋 Hey, I’m Owen  
 
 **Freshman @ Virginia Tech**
