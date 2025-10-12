@@ -47,9 +47,9 @@
 > Developed machine learning models with Scikit-Learn, reaching **87.5% accuracy** on playoff predictions.  
 > Utilized **logistic regression** and **multinomial logistic regression** for match and set outcome forecasting.
 
-#### 🔹 [**Volleyball Open Gym Finder**](#)
-> A full-stack app helping players find **indoor, grass, and beach volleyball** sessions near them.  
-> Built with **TailwindCSS**, **Node.js**, and **REST APIs** for location-based filtering.
+#### 🔹 [**EasyRoManage**](https://github.com/owenhoagie/EasyRoManage)
+> A **Discord bot** for Roblox developers to manage player data, track logins, and enforce bans.  
+> Integrates **Firebase** and **Roblox Open Cloud API** for synchronized data, real-time analytics, and secure blacklist management.
 
 ---
 
