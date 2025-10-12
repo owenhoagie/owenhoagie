@@ -2,12 +2,13 @@
 
 # 👋 Hey, I’m Owen  
 
-**Freshman @ Virginia Tech** | **General Engineering → Computer Science**  
-**Backend Developer** | ⚙️ **Machine Learning Enthusiast**
+**Freshman @ Virginia Tech**
+> General Engineering → Computer Science
+> Backend Developer | Machine Learning Enthusiast
 
 ---
 
-### 🚀 About Me  
+### ⚙️ About Me  
 - Currently exploring **backend systems**, **AI**, and **data-driven software design**  
 - Learning to combine **creativity + computation** to build smarter and more intuitive tech  
 - Passionate about **scalable systems**, **cybersecurity**, and **AI for good**  
@@ -75,4 +76,4 @@
 
 ---
 
-> “AI’s future isn’t about replacing creativity — it’s about amplifying it.” ✨
+> “AI’s future isn’t about replacing creativity — it’s about amplifying it.”
