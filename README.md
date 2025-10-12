@@ -1,5 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=owenhoagie&label=visitors)
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" style="margin-right:10px"/>
+  <a href="https://www.linkedin.com/in/owen-hoag/" target="_blank">LinkedIn</a>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" style="margin-right:10px"/>
+  <a href="mailto:hoagie1481@gmail.com" target="_blank">Email</a>
+</p>
+
 # 👋 Hey, I’m Owen  
 
 **Freshman @ Virginia Tech**
@@ -63,8 +71,7 @@
 ---
 
 ### 🧠 Currently Learning  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=FF6F00)  
-![Data Structures & Algorithms](https://img.shields.io/badge/DSA-FE7F23?style=for-the-badge&logo=algorithmia&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=FF6F00)   
 ![Backend Scaling](https://img.shields.io/badge/Backend%20Scaling-007ACC?style=flat-square&logo=docker&logoColor=white)  
 
 ---
