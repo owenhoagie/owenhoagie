@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=owenhoagie&label=visitors)
 
-# 👋 Hey, I’m Owen  
+# Hey, I’m Owen  
 **Aspiring Software Engineer | Machine Learning Enthusiast**  
 **Freshman @ Virginia Tech**  
 > General Engineering → Computer Science  
 
 ---
 
-### ⚙️ About Me  
+### About Me  
 - Currently exploring **backend systems**, **AI**, and **data-driven software design**  
 - Learning to combine **creativity + computation** to build smarter and more intuitive tech  
 - Passionate about **scalable systems**, **cybersecurity**, and **AI for good**  
@@ -18,7 +18,7 @@
 
 ---
 
-### 💻 Tech Stack  
+### Tech Stack  
 
 **Machine Learning / Data**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,7 +41,7 @@
 
 ---
 
-### 🏗️ Projects  
+### Projects  
 
 #### 🔹 [**VNL Predictor**](https://github.com/owenhoagie/VNL-Predictor)
 > Developed machine learning models with Scikit-Learn, reaching **87.5% accuracy** on playoff predictions.  
@@ -53,7 +53,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=owenhoagie&show_icons=true&theme=tokyonight&hide_border=true" />
