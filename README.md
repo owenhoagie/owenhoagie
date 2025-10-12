@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=owenhoagie&label=visitors)
 
-# Hey, I’m Owen  
+# Hey, I’m Owen <img src="https://raw.githubusercontent.com/owenhoagie/owenhoagie/master/wave.gif" width="30">  
 **Aspiring Software Engineer | Machine Learning Enthusiast**  
 **Freshman @ Virginia Tech**  
 > General Engineering → Computer Science  
