@@ -4,6 +4,7 @@
 
 **Freshman @ Virginia Tech**
 > General Engineering → Computer Science
+> 
 > Backend Developer | Machine Learning Enthusiast
 
 ---
