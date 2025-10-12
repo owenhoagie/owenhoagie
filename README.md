@@ -14,6 +14,7 @@
 
 
 ### ☕ Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/owen-hoag/)  
 <a href="https://www.linkedin.com/in/owen-hoag/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -67,12 +68,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=owenhoagie&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenhoagie&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🧠 Currently Learning  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=FF6F00)   
-![Backend Scaling](https://img.shields.io/badge/Backend%20Scaling-007ACC?style=flat-square&logo=docker&logoColor=white)  
 
 ---
 
