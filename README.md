@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=owenhoagie&label=Visitors)
+
 # Hey, I’m Owen <img src="https://raw.githubusercontent.com/owenhoagie/owenhoagie/master/wave.gif" width="30">  
 **Aspiring Software Engineer | Machine Learning Enthusiast**  
 **Freshman @ Virginia Tech**  
@@ -59,5 +61,5 @@
 </p>
 
 ---
-![](https://komarev.com/ghpvc/?username=owenhoagie&label=visitors)  
+
 > “AI’s future isn’t about replacing creativity — it’s about amplifying it.”
