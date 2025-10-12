@@ -71,7 +71,7 @@
 
 ### ☕ Let’s Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/owen-hoag/)  
-[![Email](https://img.shields.io/badge/Email-owenhoagie%40gmail.com-red?style=for-the-badge)](mailto:hoagie1481@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hoagie1481%40gmail.com-red?style=for-the-badge)](mailto:hoagie1481@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel)](#Coming Soon!)  -->
 
 ---
