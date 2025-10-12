@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=owenhoagie&label=visitors)
 
 # 👋 Hey, I’m Owen  
-**Aspiring Software Engineer | Machine Learning Enthusiast**
+**Aspiring Software Engineer | Machine Learning Enthusiast**  
 **Freshman @ Virginia Tech**
 > General Engineering → Computer Science  
 
