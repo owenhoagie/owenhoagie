@@ -48,7 +48,7 @@
 > Utilized **logistic regression** and **multinomial logistic regression** for match and set outcome forecasting.
 
 #### 🔹 [**EasyRoManage**](https://github.com/owenhoagie/EasyRoManage)
-> A **Discord bot** for Roblox developers to manage player data, track logins, and enforce bans.  
+> A **Discord bot** for Roblox developers to manage player data, track logins, and enforce bans on games with over 300,000+ visits.  
 > Integrates **Firebase** and **Roblox Open Cloud API** for synchronized data, real-time analytics, and secure blacklist management.
 
 ---
