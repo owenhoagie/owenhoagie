@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=owenhoagie&label=visitors)
-
 # Hey, I’m Owen <img src="https://raw.githubusercontent.com/owenhoagie/owenhoagie/master/wave.gif" width="30">  
 **Aspiring Software Engineer | Machine Learning Enthusiast**  
 **Freshman @ Virginia Tech**  
@@ -48,7 +46,7 @@
 > Utilized **logistic regression** and **multinomial logistic regression** for match and set outcome forecasting.
 
 #### 🔹 [**EasyRoManage**](https://github.com/owenhoagie/EasyRoManage)
-> A **Discord bot** for Roblox developers to manage player data, track logins, and enforce bans on games with over 300,000+ visits.  
+> A **Discord bot** for Roblox developers to manage player data, track logins, and enforce bans on games with over **300,000+ visits**.  
 > Integrates **Firebase** and **Roblox Open Cloud API** for synchronized data, real-time analytics, and secure blacklist management.
 
 ---
@@ -61,5 +59,5 @@
 </p>
 
 ---
-
+![](https://komarev.com/ghpvc/?username=owenhoagie&label=visitors)  
 > “AI’s future isn’t about replacing creativity — it’s about amplifying it.”
